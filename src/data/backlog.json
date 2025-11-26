@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "p1",
+      "name": "Collar de Perlas",
+      "category": "Perlas",
+      "material": "Perla",
+      "price": 79.99
+    },
+    {
+      "id": "p2",
+      "name": "Anillo Granate",
+      "category": "Granate",
+      "material": "Granate",
+      "price": 59.99
+    },
+    {
+      "id": "p3",
+      "name": "Pulsera \u00c1mbar",
+      "category": "\u00c1mbar",
+      "material": "\u00c1mbar",
+      "price": 49.99
+    },
+    {
+      "id": "p4",
+      "name": "Mineral Colgante",
+      "category": "Minerales",
+      "material": "Mineral",
+      "price": 39.99
+    },
+    {
+      "id": "p5",
+      "name": "Anillo Plata Turca",
+      "category": "Plata Turca",
+      "material": "Plata",
+      "price": 69.99
+    }
+  ],
+  "product_backlog_file_ref": "PRODUCT BACKLOG.docx"
+}

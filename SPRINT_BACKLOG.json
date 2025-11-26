@@ -1,0 +1,36 @@
+{
+  "sprint": "Sprint 1",
+  "start": "2025-11-26",
+  "end": "2025-12-09",
+  "goal": "Base tienda + carrito + responsive",
+  "items": [
+    {
+      "id": "ID#1",
+      "title": "Estructura Tienda",
+      "points": 5,
+      "assignee": "Dev A",
+      "status": "To Do"
+    },
+    {
+      "id": "ID#2",
+      "title": "Carrito y Pago (carrito)",
+      "points": 5,
+      "assignee": "Dev B",
+      "status": "In Progress"
+    },
+    {
+      "id": "ID#5",
+      "title": "Optimizaci\u00f3n Web",
+      "points": 3,
+      "assignee": "Dev C",
+      "status": "To Do"
+    },
+    {
+      "id": "ID#6",
+      "title": "Seguridad (validaciones)",
+      "points": 3,
+      "assignee": "Dev A",
+      "status": "To Do"
+    }
+  ]
+}

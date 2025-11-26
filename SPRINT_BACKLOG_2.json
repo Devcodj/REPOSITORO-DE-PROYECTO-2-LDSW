@@ -1,0 +1,69 @@
+{
+  "sprint": "Sprint 2",
+  "start": "2025-12-10",
+  "end": "2025-12-23",
+  "goal": "Implementar navegación, persistencia de datos, filtros y mejora visual del proyecto.",
+  "items": [
+    {
+      "id": "ID#3",
+      "title": "Mejorar Estética (UI/UX)",
+      "points": 3,
+      "assignee": "Dev A",
+      "status": "To Do",
+      "tasks": [
+        "Aplicar theme global",
+        "Mejorar tarjetas de productos",
+        "Optimizar estilos móviles"
+      ]
+    },
+    {
+      "id": "ID#4",
+      "title": "Navegación por Categorías y Rutas",
+      "points": 5,
+      "assignee": "Dev A",
+      "status": "In Progress",
+      "tasks": [
+        "Implementar React Router",
+        "Crear rutas Home/Carrito/Deseos",
+        "Crear rutas de categorías",
+        "Agregar navbar global"
+      ]
+    },
+    {
+      "id": "ID#7",
+      "title": "Filtros de Productos",
+      "points": 5,
+      "assignee": "Dev C",
+      "status": "To Do",
+      "tasks": [
+        "Filtrar por categoría",
+        "Filtrar por rango de precios",
+        "Implementar buscador por nombre",
+        "Crear componentes de filtro"
+      ]
+    },
+    {
+      "id": "ID#9",
+      "title": "Manejo de Datos",
+      "points": 2,
+      "assignee": "Dev B",
+      "status": "To Do",
+      "tasks": [
+        "Separar lógica en hooks",
+        "Refactor general de componentes"
+      ]
+    },
+    {
+      "id": "ID#10",
+      "title": "Persistencia en localStorage",
+      "points": 5,
+      "assignee": "Dev B",
+      "status": "In Progress",
+      "tasks": [
+        "Guardar carrito en localStorage",
+        "Guardar lista de deseos en localStorage",
+        "Sincronizar datos al cargar la app"
+      ]
+    }
+  ]
+}

@@ -1,32 +1,37 @@
-# React Jewelry Shop — Demo
+# 📦 Proyecto: Tienda de Joyas (React)
 
-Proyecto demo construido en React (Vite). Contiene una pequeña tienda con:
-- Listado de productos por categorías.
-- Carrito funcional (añadir, quitar, qty).
-- Lista de deseos.
+Este proyecto es una tienda web básica desarrollada con **React (Vite)** como parte de una actividad académica.  
+Incluye funcionalidades esenciales de navegación y gestión de productos con enfoque en buenas prácticas y metodología ágil.
 
-## Instrucciones rápidas
-1. Instalar dependencias: `npm install`
-2. Iniciar desarrollo: `npm run dev`
-3. Construir: `npm run build`
+---
 
-## GitHub — cómo publicar
-Ejecuta en la raíz del proyecto:
+## 🚀 Enlace al Proyecto (GitHub Pages)
+👉 https://devcodj.github.io/REPOSITORO-DE-PROYECTO-2-LDSW/
 
+---
+
+## 🎯 Objetivo del Proyecto
+Construir una tienda funcional con:
+- Lista de productos  
+- Carrito de compras  
+- Lista de deseos  
+- Navegación básica entre pantallas  
+- Persistencia con localStorage  
+- Diseño responsivo  
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+- React + Vite  
+- JavaScript  
+- CSS  
+- Git / GitHub  
+- GitHub Pages (para despliegue)
+
+---
+
+## ⚙️ Cómo ejecutar el proyecto en local
+
+1. Instalar dependencias:
 ```bash
-git init
-git add .
-git commit -m "Initial commit — sprint 1"
-gh repo create your-username/react-jewelry-shop --public --source=. --remote=origin
-git push -u origin main
-```
-
-Si no usas `gh`, crea el repo en github.com y añade el remote:
-```bash
-git remote add origin https://github.com/your-username/react-jewelry-shop.git
-git branch -M main
-git push -u origin main
-```
-
-## Sprints y Scrum
-Revisa `SCRUM_GUIDE.md` y `SPRINT_PLANNING.md` para la planificación del Sprint 1.
+npm install

@@ -1,0 +1,3 @@
+# 🏁 Sprint Review — Sprint 2 (Plantilla)
+
+Contenido de la plantilla del Sprint Review 2...

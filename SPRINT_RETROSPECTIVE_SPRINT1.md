@@ -1,0 +1,3 @@
+# 🔄 Sprint Retrospective — Sprint 1
+
+Contenido de la Retrospectiva del Sprint 1...
